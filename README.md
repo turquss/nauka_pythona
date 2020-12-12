@@ -1,0 +1,3 @@
+# Nauka PYTHONa
+- x
+- y
